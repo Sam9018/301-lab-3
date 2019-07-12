@@ -1,0 +1,24 @@
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    margin: 50px;
+}
+
+h2 {
+
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+}
+select {
+    
+}
